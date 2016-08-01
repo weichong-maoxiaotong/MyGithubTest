@@ -11,3 +11,4 @@
    --How do you write so much?
    --fix bug
    --Can you say people words?
+   --pr,pull request
